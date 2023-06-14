@@ -21,7 +21,10 @@ ul.navi {
   ul.navi li a:hover {
     background-color: gray;
   }
-
+img{
+ width:400px;
+ height: 400px; 
+}
   /*li a:active  {
     background-color: #04AA6D;
   }*/
